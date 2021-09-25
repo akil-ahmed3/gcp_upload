@@ -1,0 +1,17 @@
+[
+    {
+        "origin": [
+            "http://192.168.29.3:5500/"
+        ],
+        "responseHeader": [
+            "Content-Type",
+            "Access-Control-Allow-Origin"
+        ],
+        "method": [
+            "GET",
+            "PUT",
+            "POST"
+        ],
+        "maxAgeSeconds": 3600
+    }
+]
